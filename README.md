@@ -7,3 +7,7 @@ Links for downloading datasets:
 ## Requirements downloads:
 ### Pip installation:
 `pip install -r requirements.txt`
+
+<i>QuickDraw! is an online game that challenges players to draw a picture of an object or idea and then uses a neural network (NN) artificial intelligence to guess what the drawings represent. The AI learns from each drawing, increasing its ability to guess correctly in the future.</i>
+
+Checkout http://52.66.65.239/ to view the <b>`QuickDraw! Recognizer`</b> game!
